@@ -2,7 +2,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 import { BookOpen, Users, Award, Calendar, Bell, MapPin, Phone, Mail, GraduationCap } from "lucide-react";
-import schoolHeroBg from "@/assets/school-hero-bg.jpg";
+import schoolHeroBg from "@/assets/Astha.jpeg";
 
 const Index = () => {
   const announcements = [
